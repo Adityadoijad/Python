@@ -152,7 +152,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Aditya** - Python Learner & Developer
 
-Project Link: [https://github.com/yourusername/python-tutorials](https://github.com/Adityadoijad/Python)
+Project Link: [link](https://github.com/Adityadoijad/Python)
 
 ## 📄 License
 
