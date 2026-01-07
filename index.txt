@@ -1,5 +1,7 @@
 PYTHON TUTORIALS INDEX
 ======================
+(Files are named: python1.py, python2.py, etc.)
+
 
 1. Basics - Hello World & Print Statement
 2. Comments, Escape Sequences, and Print Statement Parameters
@@ -40,11 +42,11 @@ PYTHON TUTORIALS INDEX
 36. OS Module
 37. Local and Global Variables
 38. File I/O (File Handling - Read, Write, Append)
-    - Supporting file: Tutorial38.txt (practice file for reading/writing)
+    - Supporting file: python38.txt (practice file for reading/writing)
 39. readline() and writelines() Functions
-    - Supporting files: Tutorial39.txt, Tutorial39one.txt, Tutorial39x.txt (practice files for line operations)
+    - Supporting files: python39.txt, python39one.txt, python39x.txt (practice files for line operations)
 40. seek(), tell() and truncate() Functions
-    - Supporting file: Tutorial40.txt (practice file for file pointer operations)
+    - Supporting file: python40.txt (practice file for file pointer operations)
 41. Lambda Functions
 42. Map, Filter and Reduce Functions
 43. 'is' vs '==' Operators

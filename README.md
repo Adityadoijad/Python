@@ -108,7 +108,7 @@ cd python-tutorials
 
 2. Run any tutorial:
 ```bash
-python Tutorial1.py
+python python1.py
 ```
 
 ## 📝 How to Use This Repository
@@ -122,15 +122,15 @@ python Tutorial1.py
 
 ```
 Python Tutorials/
-├── Tutorial1.py          # Hello World & Basics
-├── Tutorial2.py          # Comments & Print
+├── python1.py            # Hello World & Basics
+├── python2.py            # Comments & Print
 ├── ...
-├── Tutorial74.py         # Multiprocessing
-├── Tutorial38.txt        # File I/O practice file
-├── Tutorial39.txt        # readline() practice
-├── Tutorial39one.txt     # Additional practice file
-├── Tutorial39x.txt       # Data parsing practice
-├── Tutorial40.txt        # seek/tell practice
+├── python74.py           # Multiprocessing
+├── python38.txt          # File I/O practice file
+├── python39.txt          # readline() practice
+├── python39one.txt       # Additional practice file
+├── python39x.txt         # Data parsing practice
+├── python40.txt          # seek/tell practice
 ├── index.txt             # Complete topic index
 ├── README.md             # This file
 └── LICENSE               # MIT License
