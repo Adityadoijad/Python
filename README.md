@@ -102,7 +102,7 @@ This repository serves as a complete learning path for Python programming, start
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-tutorials.git
+git clone https://github.com/Adityadoijad/Python.git
 cd python-tutorials
 ```
 
